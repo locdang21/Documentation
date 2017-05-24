@@ -31,10 +31,10 @@
 # Set Variables
 myVerboseModeClass=""
 myVerboseGC=""
-myVerboseModeJNI="false"
+myVerboseModeJNI=""
 myInitialHeap=""
 myMaximumHeap=""
-myRunHProf="false" 
+myRunHProf="" 
 myHprofArguments="" 
 myDebugMode=""
 myDebugArgs=""
